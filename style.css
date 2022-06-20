@@ -233,7 +233,7 @@ aside{
 .center2{
     margin: auto;
     width: 50%;
-    border: 3px solid #494e68;
+    /* border: 3px solid #494e68; */
     padding: 10px;
     display: flex;
     margin-left: auto;
@@ -241,7 +241,7 @@ aside{
     width: 80%;
     height: 100%;
     background-color: #ebebeb;
-    padding-bottom: 10px;
+    /* padding-bottom: 10px; */
 }
 
 .column {
